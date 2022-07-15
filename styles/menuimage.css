@@ -1,0 +1,31 @@
+
+
+  .menuimg{
+    position: absolute; 
+    width: 100%;  
+    z-index: -1; 
+    overflow: hidden;
+  }
+
+  .logo_on_menuimg{
+    object-fit: cover;
+  object-position: 0% 10%; 
+  position: absolute; 
+  right: 0;  
+  top: 370px; 
+  width: 487.76px; 
+  height: 418.64px; 
+  z-index: 1;
+  }
+
+  .background_1{
+    z-index: -3;
+     position: absolute;
+     width: 100%;
+     overflow: hidden;
+  }
+
+  .image_items {
+    width: 100%;
+    object-fit: cover;
+  }

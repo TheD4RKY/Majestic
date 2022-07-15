@@ -1,0 +1,8 @@
+body{
+  margin: 0;
+  display: block;
+}
+
+.styled{
+  text-decoration: underline;
+}

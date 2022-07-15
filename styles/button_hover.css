@@ -1,0 +1,66 @@
+.button{
+  width:351px; 
+  height: 79px; 
+  background-color:#CEA068; 
+  text-align: center; 
+  border: 0; 
+  color: white; 
+  font: normal normal 800 25px/28px Abril Display; 
+  text-align: center;
+}
+
+.button1{
+  width:401px; 
+  height: 79px; 
+  background-color:#CEA068; 
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: 20rem; 
+  text-align: center; 
+  border: 0; 
+  color: white; 
+  font: normal normal 800 25px/28px Abril Display;
+}
+
+.button:hover{
+  color: black;
+  border: 3px solid #CEA068;
+  background-color: white;
+}
+
+.button1:hover{
+  border: 3px solid #CEA068;
+  background-color: transparent;
+}
+
+@media (max-width: 480px) {
+  .buttondiv{
+    display: flex;
+    justify-content: center;
+  }
+
+  .button{
+    width:251px; 
+    height: 69px; 
+    background-color:#CEA068; 
+    text-align: center; 
+    border: 0; 
+    color: white; 
+    font: normal normal 800 20px/28px Abril Display; 
+    text-align: center;
+  }
+  
+  .button1{
+    width:301px; 
+    height: 69px; 
+    background-color:#CEA068; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 23rem; 
+    text-align: center; 
+    border: 0; 
+    color: white; 
+    font: normal normal 800 25px/28px Abril Display;
+  }
+ 
+}

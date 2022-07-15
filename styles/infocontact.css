@@ -1,0 +1,307 @@
+@media (min-width:1281px) {
+  .imgdiv_2 img{
+    max-height: 578px;;
+  }
+  
+  .bottomdivflex{
+    display: flex; 
+    flex-direction:row; 
+    justify-content:space-evenly; 
+    padding-top: 6.5rem;
+  }
+  .contact_text{
+    
+    font: normal normal 800 50px/59px Abril Display;
+  }
+
+  .contact_text1{
+    padding-top: 5rem;
+    font: normal normal normal 30px/35px Abril Display;
+  }
+  .photodiv1{
+    margin-top: 33.8rem;
+  }
+  .infobox{
+    height: 430px; 
+    display: flex; 
+    flex-direction: row;
+  }
+  .infobox_2{
+    display: flex; 
+    flex-direction: column; 
+    text-align: center; 
+    padding-top: 3rem; 
+    padding-left: 10rem;
+  }
+  .menutext_1{
+    color:white; 
+    text-align: center; 
+    font: normal normal normal 82px/91px Abril Display;
+    line-height: 0rem; 
+    margin: 0; 
+  }
+ .menutext_2{
+  color:white; 
+  text-align: center; 
+  font: normal normal bold 82px/91px Abril Display;
+  line-height: 0rem; 
+  font-weight: 700;
+ }
+ .biglogo{
+  object-fit: cover;
+  object-position: 0% 10%; 
+  position: absolute; 
+  right: 0; 
+  top:5760px; 
+  width: 487.76px; 
+  height: 418.64px; 
+  z-index: 1;
+ }
+ .bottomtext{
+  font: normal normal bold 22px/25px Abril Display;
+  width: 25rem;
+ }
+ .arrow{
+  padding-top: 1rem;
+}
+  }
+  
+  @media (min-width: 1025px) and (max-width: 1280px){
+    .imgdiv_2 img{
+      max-height: 578px;;
+    }
+    .contact_text{
+      font: normal normal 800 35px/59px Abril Display;
+    }
+
+    .contact_text1{
+      font: normal normal normal 25px/35px Abril Display;
+    }
+    .bottomdivflex{
+      display: flex; 
+      flex-direction:row; 
+      justify-content:space-evenly; 
+      padding-top: 6.5rem;
+    }
+    .photodiv1{
+      margin-top: 33.8rem;
+    }
+    .infobox{
+      height: 430px; 
+      display: flex; 
+      flex-direction: row;
+    }
+    .infobox_2{
+      display: flex; 
+      flex-direction: column; 
+      text-align: center; 
+      padding-top: 3rem; 
+      padding-left: 10rem;
+    }
+    .menutext_1{
+      color:white; 
+      text-align: center; 
+      font-size: 5.5rem; 
+      line-height: 0rem; 
+      margin: 0; 
+    }
+    .menutext_2{
+      color:white; 
+      text-align: center; 
+      font-size: 82px; 
+      line-height: 0rem; 
+      font-weight: 700;
+     }
+     .biglogo{
+      object-fit: cover;
+      object-position: 0% 10%; 
+      position: absolute; 
+      right: 0; 
+      top:5790px; 
+      width: 387.76px; 
+      height: 318.64px; 
+      z-index: 1;
+     }
+     .bottomtext{
+      font: normal normal bold 22px/25px Abril Display;
+      width: 25rem;
+     }
+     .arrow{
+      padding-top: 1rem;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 1024px){
+    .imgdiv_2 img{
+      max-height: 578px;;
+    }
+    .bottomdivflex{
+      display: flex; 
+      flex-direction:row; 
+      justify-content:space-evenly; 
+      padding-top: 6.5rem;
+    }
+    .contact_text{
+      font: normal normal 800 35px/59px Abril Display;
+    }
+
+    .contact_text1{
+      font: normal normal normal 25px/35px Abril Display;
+    }
+    .photodiv1{
+      margin-top: 33.8rem;
+    }
+    .infobox{
+      height: 860px; 
+      display: flex; 
+      flex-direction: column;
+    }
+
+    .infobox_2{
+      display: flex; 
+      flex-direction: column; 
+      text-align: center; 
+      padding-top: 8rem; 
+      padding-left: 0rem;
+    }
+    .menutext_1{
+      color:white; 
+      text-align: center; 
+      font-size: 5.5rem; 
+      line-height: 0rem; 
+      margin: 0; 
+    }
+    .menutext_2{
+      color:white; 
+      text-align: center; 
+      font-size: 82px; 
+      line-height: 0rem; 
+      font-weight: 700;
+     }
+     .biglogo{
+      display: none;
+    }
+    .bottomtext{
+      font: normal normal bold 18px/20px Abril Display;
+      width: 25rem;
+     }
+     .arrow{
+      padding-top: 1rem;
+    }
+  }
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    .imgdiv_2 img{
+      max-height: 518px;;
+    }
+
+    .bottomdivflex{
+      display: flex; 
+      flex-direction:row; 
+      justify-content:space-evenly; 
+      padding-top: 6.5rem;
+    }
+    .contact_text{
+      font: normal normal 800 35px/59px Abril Display;
+    }
+
+    .contact_text1{
+      font: normal normal normal 25px/35px Abril Display;
+    }
+    .photodiv1{
+      margin-top: 33.8rem;
+    }
+  
+    .menutext_1{
+      color:white; 
+      text-align: center; 
+      font-size: 3.5rem; 
+      line-height: 0rem; 
+      margin: 0; 
+    }
+    .infobox_2{
+      display: flex; 
+      flex-direction: column; 
+      text-align: center; 
+      padding-top: 8rem; 
+      padding-bottom: 10rem;
+      padding-left: 0rem;
+    }
+    .menutext_2{
+      color:white; 
+      text-align: center; 
+      font-size: 52px; 
+      line-height: 0rem; 
+      font-weight: 700;
+     }
+     .biglogo{
+      display: none;
+    }
+    .bottomtext{
+      font: normal normal bold 15px/18px Abril Display;
+      width: 14rem;
+     }
+
+     .arrow{
+      padding-top: 1rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .imgdiv_2 img{
+      max-height: 400px;
+    }
+
+
+    .bottomdivflex{
+      display: flex; 
+      flex-direction:column; 
+      justify-content:center; 
+      padding-top: 4rem;
+      width: 100%;
+      
+    }
+    .photodiv1{
+      margin-top: 32.8rem;
+    }
+    .contact_text{
+      font: normal normal 800 35px/59px Abril Display;
+    }
+
+    .contact_text1{
+      font: normal normal normal 25px/35px Abril Display;
+    }
+
+    .menutext_1{
+      color:white; 
+      text-align: center; 
+      font-size: 3.4rem; 
+      line-height: 0rem; 
+      margin: 0; 
+    }
+    .infobox_2{
+      display: flex; 
+      flex-direction: column; 
+      text-align: center; 
+      padding-top: 8rem; 
+      padding-bottom: 10rem;
+      padding-left: 0rem;
+    }
+    .menutext_2{
+      color:white; 
+      text-align: center; 
+      font-size: 32px; 
+      line-height: 1rem; 
+      font-weight: 700;
+     }
+     .biglogo{
+      display: none;
+    }
+    .bottomtext{
+      font: normal normal bold 12px/16px Abril Display;
+    
+     }
+  .arrow{
+    padding-top: 6rem;
+  }
+  }
