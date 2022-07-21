@@ -1,0 +1,24 @@
+.footerimg{
+  height: 424px;
+  width: 1905px;
+}
+
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+  .footerimg{
+    height: 524px;
+    width: 2500px;
+  }
+
+}
+
+@media (max-width: 480px) {
+
+  .footerimg{
+    height: 624px;
+    width: 2500px;
+  }
+}
+
